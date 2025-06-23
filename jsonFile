@@ -1,0 +1,116 @@
+[
+  {
+    "value": "111",
+    "startDate": "3/21/23",
+    "endDate": "4/20/23",
+    "invoice": "13.79"
+  },
+  {
+    "value": "41",
+    "startDate": "4/21/23",
+    "endDate": "5/20/23",
+    "invoice": "11.97"
+  },
+  {
+    "value": "50",
+    "startDate": "5/21/23",
+    "endDate": "6/20/23",
+    "invoice": "12.63"
+  },
+  {
+    "value": "14",
+    "startDate": "6/21/23",
+    "endDate": "7/20/23",
+    "invoice": "11.84"
+  },
+  {
+    "value": "31",
+    "startDate": "7/21/23",
+    "endDate": "8/20/23",
+    "invoice": "14.96"
+  },
+  {
+    "value": "57",
+    "startDate": "8/21/23",
+    "endDate": "9/20/23",
+    "invoice": "19.23"
+  },
+  {
+    "value": "99",
+    "startDate": "9/21/23",
+    "endDate": "10/20/23",
+    "invoice": "23.13"
+  },
+  {
+    "value": "562",
+    "startDate": "10/21/23",
+    "endDate": "11/20/23",
+    "invoice": "66.83"
+  },
+  {
+    "value": "447",
+    "startDate": "11/21/23",
+    "endDate": "12/20/23",
+    "invoice": "66.52"
+  },
+  {
+    "value": "530",
+    "startDate": "12/21/23",
+    "endDate": "1/20/24",
+    "invoice": "96.51"
+  },
+  {
+    "value": "372",
+    "startDate": "1/21/24",
+    "endDate": "2/20/24",
+    "invoice": "70.82"
+  },
+  {
+    "value": "307",
+    "startDate": "2/21/24",
+    "endDate": "3/20/24",
+    "invoice": "42.27"
+  },
+  {
+    "value": "212",
+    "startDate": "3/21/24",
+    "endDate": "4/20/24",
+    "invoice": "28.69"
+  },
+  {
+    "value": "127",
+    "startDate": "4/21/24",
+    "endDate": "5/20/24",
+    "invoice": "27"
+  },
+  {
+    "value": "63",
+    "startDate": "5/21/24",
+    "endDate": "6/20/24",
+    "invoice": "26.06"
+  },
+  {
+    "value": "81",
+    "startDate": "6/21/24",
+    "endDate": "7/20/24",
+    "invoice": "31.94"
+  },
+  {
+    "value": "39",
+    "startDate": "7/21/24",
+    "endDate": "8/20/24",
+    "invoice": "24.98"
+  },
+  {
+    "value": "48",
+    "startDate": "8/21/24",
+    "endDate": "9/20/24",
+    "invoice": "26.69"
+  },
+  {
+    "value": "264",
+    "startDate": "9/21/24",
+    "endDate": "10/20/24",
+    "invoice": "69.73"
+  }
+]
